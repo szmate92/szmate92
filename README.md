@@ -1,23 +1,23 @@
 # Hi, I'm Máté Szabó! 👋
 
-### ⚙️ IT Operator | SQL & Oracle Enthusiast | Graphic Designer
+### ⚙️ Junior Backend Developer | SQL & PL/SQL Specialist | Graphic Designer
 
-I have transitioned into the IT world with over 10 years of visual design background. My experience has shown me that precise design and structured code go hand in hand. Currently, I am deepening my knowledge in backend processes (SQL/PLSQL) and process automation (Python).
+Professional with 10+ years of experience in Visual Design and 3.5 years in IT Operations (Díjbeszedő Holding). I combine enterprise-level reliability with a deep focus on database development and automation.
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Databases & Ops:** Oracle SQL, PL/SQL (enterprise environment), Unix/Linux (Putty, WinSCP), VirtualBox (local dev environments).
-- **Web & Programming:** WordPress (Custom CSS & Sitebuild), Python (Logic & Automation).
-- **Design & 3D:** Adobe Creative Suite (Ps, Ai, Id), 3D modeling & Resin printing.
+- **Backend & Databases:** Oracle SQL, PL/SQL (Stored Procedures, Performance Tuning), Python (Logic & API Automation).
+- **Operations:** Unix/Linux (PuTTY, Shell scripting), Jira (Incident Management), VirtualBox.
+- **Visual Design:** Adobe Creative Suite (Ps, Ai, Id), 3D modeling & Resin printing.
 
-### 🚀 What I'm working on
-- **Backend:** Reaching PL/SQL developer level, complex database queries.
-- **Automation:** Making daily IT operations more efficient with Python scripts.
+### 🚀 Projects & Focus
+- **Current Project:** Automated RPG Combat & Billing System (Python + Oracle PL/SQL integration).
+- **Goal:** Delivering high-performance database solutions and automated reporting.
 
 ### 💡 Why me?
-During my time as an IT Operator, I learned the responsibility of working with enterprise systems. My entrepreneurial background taught me independent problem-solving and precision. I am looking for junior-level remote opportunities where I can apply both my technical and visual expertise.
+During my time as an IT Operator, I mastered working with complex enterprise systems under responsibility. My 7-year entrepreneurial background taught me independent problem-solving, while my design experience allows me to create superior technical documentation.
 
 ### 📫 Connect with me
 - [LinkedIn Profile](https://www.linkedin.com/in/mateszabo1992/)
@@ -26,24 +26,24 @@ During my time as an IT Operator, I learned the responsibility of working with e
 
 # Szia, Szabó Máté vagyok! 👋
 
-### ⚙️ IT Operator | SQL & Oracle Enthusiast | Graphic Designer
+### ⚙️ Junior Backend Developer | SQL & PL/SQL Specialist | Graphic Designer
 
-Több mint 10 év vizuális tervezői háttérrel érkeztem az IT világába. Tapasztaltam, hogy a precíz design és a strukturált kód kéz a kézben jár. Jelenleg a backend folyamatok (SQL/PLSQL) és a folyamatautomatizálás (Python) területén mélyítem a tudásomat.
+Több mint 10 év vizuális tervezői háttérrel és 3,5 év IT operátori múlttal (Díjbeszedő Holding) érkeztem a fejlesztői világba. A nagyvállalati rendszerek iránti felelősséget ötvözöm az adatbázis-fejlesztés és automatizálás iránti szenvedélyemmel.
 
 ---
 
 ### 🛠 Technikai Stack
 
-- **Databases & Ops:** Oracle SQL, PL/SQL (vállalati környezet), Unix/Linux (Putty, WinSCP), VirtualBox (helyi gyakorló környezetek kialakítása).
-- **Web & Programming:** WordPress (Custom CSS & Sitebuild), Python (Automation & Logic).
-- **Design & 3D:** Adobe Creative Suite (Ps, Ai, Id), 3D modeling & Resin printing.
+- **Backend & Adatbázisok:** Oracle SQL, PL/SQL (Tárolt eljárások, Teljesítmény optimalizálás), Python (Logika és Automatizáció).
+- **Üzemeltetés:** Unix/Linux (PuTTY, Shell scripting), Jira (Hibajegy kezelés), VirtualBox.
+- **Design & 3D:** Adobe Creative Suite (Ps, Ai, Id), 3D modellezés & Resin nyomtatás.
 
-### 🚀 Amiben fejlődöm
-- **Backend:** PL/SQL fejlesztői szint elérése, adatbázis-architektúra.
-- **Automation:** Napi IT feladatok automatizálása Python segítségével.
+### 🚀 Amivel most foglalkozom
+- **Aktuális projekt:** Automatizált RPG harcrendszer és számlázó modul (Python + Oracle PL/SQL integráció).
+- **Cél:** Magas teljesítményű adatbázis-megoldások és automatizált riportrendszerek fejlesztése.
 
 ### 💡 Miért én?
-Az operátori munkám során megtanultam, hogyan kell nagyvállalati rendszerekben felelősséggel dolgozni, a vállalkozói múltam pedig megtanított az önálló problémamegoldásra és a precizitásra.
+Az operátori munkám során megtanultam, hogyan kell nagyvállalati rendszerekben felelősséggel dolgozni. A vállalkozói múltam megtanított az önálló problémamegoldásra, grafikai tapasztalatom pedig segít a kimagasló minőségű technikai dokumentációk elkészítésében.
 
 ### 📫 Elérhetőség
 - [LinkedIn profilom](https://www.linkedin.com/in/mateszabo1992/)
